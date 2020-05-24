@@ -1,0 +1,11 @@
+package com.lml.git;
+
+/**
+ * @author luomingliang
+ * @date 2020/5/24 10:15
+ */
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("Hello Git");
+    }
+}
